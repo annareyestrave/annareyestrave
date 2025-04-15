@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @annareyestrave. With a scientific background and 7+ years of experience as a Business Intelligence Analyst and Consultant in Pharma and Public Healthcare, I’m now transitioning into a more data-focused role. I’m passionate about data analysis, visualization, and storytelling — and I’m determined to make them part of my day-to-day life.
+- 👋 Hi, I’m @annareyestrave. With a scientific background and 7+ years of experience as a Business Intelligence Analyst and Consultant in Pharma and Public Healthcare, I’m now transitioning into a more data-focused role. I’m passionate about data analysis, visualization, and storytelling—and I’m determined to make them part of my day-to-day life.
 - 👀 I’m interested in:
-  - Purposeful businesses that aim to improve people’s lives —whether through health, wellbeing, sustainability, technology, or community.
+  - Purposeful businesses that aim to improve people’s lives—whether through health, wellbeing, sustainability, technology, or community.
   - Data storytelling, strategy, customer insights, and process optimization.  
   - Projects where data meets impact.
 - 🌱 I’m currently learning:
@@ -13,7 +13,7 @@
   - Anything where curiosity, collaboration, and purpose meet.
 - 📫 How to reach me: Feel free to connect on [LinkedIn](https://www.linkedin.com/in/annareyestrave/) or drop me a line at a.reyestrave@gmail.com  
 - 😄 Pronouns: she/her.  
-- ⚡ Fun fact: I’ve lived in multiple countries, switched careers, and learned SQL and Python during toddler nap times and Bluey episodes —resilience is my superpower. 
+- ⚡ Fun fact: I’ve lived in multiple countries, switched careers, and learned SQL and Python during toddler nap times and Bluey episodes—resilience is my superpower. 
 
 <!---
 annareyestrave/annareyestrave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
