@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annareyestrave. With a scientific background and 7+ years of experience as a BI Analyst and Consultant in Pharma and Public Healthcare, I’m now transitioning into a more data-focused role. I’m passionate about data analysis, visualization, and storytelling—and I’m determined to make them part of my day-to-day life.
 - 👀 I’m interested in:
-  - Purposeful businesses that aim to improve people’s lives—whether through health, wellbeing, sustainability, technology, or community.
+  - Purposeful businesses that aim to improve people’s lives—whether through health, wellbeing, education, sustainability, technology, art, or community.
   - Data storytelling, strategy, customer insights, and process optimization.  
   - Projects where data meets impact.
 - 🌱 I’m currently learning:
