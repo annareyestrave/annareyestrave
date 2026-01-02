@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @annareyestrave. I have a background in Biotech and prior BI experience in Pharma and Healthcare. After expanding my technical skill set, I now work as an Associate Data Analyst, building toward a full-stack analytics profile with expertise in data analysis, visualization, data engineering, and data modeling.
+- 👋 Hi, I’m @annareyestrave. I have a background in Biotech and BI experience in Pharma and Healthcare. I currently work as an Associate Data Analyst, building toward a full-stack analytics profile spanning data analysis, visualization, data engineering, and data modeling.
 - 👀 I’m interested in:
-  - Purpose-driven projects that create a positive impact on people’s lives — across health, wellbeing, education, sustainability, technology, or community.
+  - Purpose-driven projects with real-world impact (health, wellbeing, education, sustainability, tech, community).
   - Data storytelling, clear communication, strategy, innovation, and process optimization.
 - 🌱 I’m currently learning:
-  - Predictive modeling with ML, advanced statistical concepts, and data engineering foundations (pipelines, ETL/ELT).
-  - How to design intuitive, actionable dashboards that truly influence decision-making.
+  - Predictive modeling (ML), advanced statistics, and data engineering foundations (pipelines, ETL/ELT).
+  - AI-powered dashboard design to better support decision-making.
 - 💞️ I’m looking to collaborate on:
-  - Data-driven projects with real-world impact.  
-  - Opportunities that challenge me to grow as a data professional and strengthen my analytics skills
+  - Data-driven projects with meaningful impact.  
+  - Opportunities that challenge me and strengthen my analytics skill set.
   - Anything where curiosity, collaboration, and purpose intersect.
 - 📫 How to reach me: Feel free to connect on [LinkedIn](https://www.linkedin.com/in/annareyestrave/).
 - 😄 Pronouns: she/her.  
